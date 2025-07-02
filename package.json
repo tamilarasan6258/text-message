@@ -1,0 +1,23 @@
+{
+  "name": "text-message",
+  "version": "0.0.0",
+  "description": "just a text message printing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamilarasan6258/text-message.git"
+  },
+  "keywords": [
+    "text",
+    "message"
+  ],
+  "author": "tamilarasan6258",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamilarasan6258/text-message/issues"
+  },
+  "homepage": "https://github.com/tamilarasan6258/text-message#readme"
+}
